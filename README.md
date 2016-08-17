@@ -1,1 +1,1 @@
-# deneme
+# sadece deneme amaçlıdır. 
